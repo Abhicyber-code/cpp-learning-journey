@@ -10,7 +10,7 @@ Feel free to explore the folders and files. Each folder usually represents a dif
 
 ## How to Use
 
-1. **Browse**: Take a look at the different folders to find topics that interest you. Feel free to click into any folder to see the code and explanations.
+1. **Browse**: Take a look at the different files to find topics that interest you. Feel free to click into any file to see the code and explanations.
 
 2. **Learn**: If you're new to C++, you might find it helpful to start with the basics. Look for folders named something like "Basics" or "GettingStarted."
 
